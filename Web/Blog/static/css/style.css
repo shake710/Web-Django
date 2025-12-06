@@ -7,30 +7,30 @@
       
 }
 .navbar{
-    background-color:darkslateblue;
-    font-family:cursive;
-    padding-right:15px;
-    padding-left:15px;
+    background-color: darkslateblue;
+    font-family: cursive;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 .navdiv{
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .logo{
-    font-size:35px;
-    font-weight:600;
-    color:white;
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
 }
 li{
-    list-style:none;
-    display:inline-block;
+    list-style: none;
+    display: inline-block;
 }
 li a{    
-    color:white;
-    font-size:18px;
-    font-weight:bold;
-    margin-right:25px;
+    color:  white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
 }
 button{
     background-color: aqua;
@@ -40,9 +40,9 @@ button{
     width:90px;
 }
 button a{
-    color:white;
-    font-weight:bold;
-    font-size:15px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
 }
 .cont{
     width: 40%;
@@ -56,10 +56,10 @@ button a{
     padding: 20px;
 }
 .cont h1{
-    color:azure;
+    color: azure;
 }
 .cont h2{
-    color:azure;
+    color: azure;
 }
 .cont h3{
     color: azure;
